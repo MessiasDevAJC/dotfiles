@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = allan.da.silva.costa@gmail.com
+	name = Allan Costa
